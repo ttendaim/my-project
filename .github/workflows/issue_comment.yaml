@@ -1,4 +1,4 @@
-name: commenting on issues 
+name: commenting on issues
 
 on:
   issues:
